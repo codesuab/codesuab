@@ -1,7 +1,7 @@
 <img src="banner_github.png" height="auto" width="100%" />
 
 # Hello!, I'm Sahab, a fullstack Web Developer 👋🏼:
-🛜 currently working on my own [codesuab](https://codesuab.com)<br>👨🏼‍🎓 studying computer science at National instutute in technology<br>👨🏼‍💻 working as a web developer since 2019</i>
+🛜 Currently working on my own [codesuab](https://codesuab.com)<br>👨🏼‍🎓 Studying computer science at National instutute in technology<br>👨🏼‍💻 Working as a web developer since 2018</i>
 
 
 # 💻 Tech Stack:
