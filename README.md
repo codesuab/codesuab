@@ -43,7 +43,7 @@
 
 ## Tech Stack
 
-<div align="center">
+<div align="left">
 
 ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
 ![Inertia.js](https://img.shields.io/badge/Inertia.js-9553E9?style=for-the-badge)
