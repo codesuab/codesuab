@@ -1,6 +1,6 @@
-<img src="banner_github.png" height="auto" width="100%" />
+<img src="codesuab-banner.png" height="auto" width="100%" />
 
-# Hello!, I'm Sahab, a fullstack Web Developer 👋🏼:
+# Hello!, I'm Sahab, a full-stack Web Developer 👋🏼:
 🛜 Currently working on my own [codesuab](https://codesuab.com)<br>👨🏼‍🎓 Studying computer science at National instutute in technology<br>👨🏼‍💻 Working as a web developer since 2018</i>
 
 
