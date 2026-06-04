@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="codesuab-banner.png" width="100%" />
+  <img src="/assets/codesuab-banner.png" width="100%" />
 
   <h1>Hi, I'm Sahab 👋</h1>
 
