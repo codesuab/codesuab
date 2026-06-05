@@ -81,12 +81,9 @@
 
 <br/>
 
-## Currently Working On
+## Open Source
 
 - 🚀 DeploySync (Deployment automation tool)
-- 🌐 codesuab platform ecosystem
-- ⚙️ Laravel + Inertia SaaS boilerplates
-
 <br/>
 
 ## Connect With Me
