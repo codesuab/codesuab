@@ -83,7 +83,8 @@
 
 ## Open Source
 
-- 🚀 DeploySync (Deployment automation tool)
+- [DeploySync](https://github.com/codesuab/deploysync) (Deployment automation tool)
+- [verifyJS](https://github.com/codesuab/verifyJS) (Simple JavaScript CAPTCHA System)
 <br/>
 
 ## Connect With Me
